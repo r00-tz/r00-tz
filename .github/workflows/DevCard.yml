@@ -31,4 +31,4 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: ${{ secrets.015a2103d0b84a6f92e213a93931c0e1 }}
+          devcard_id: ${{ secrets.DEVCARD_ID015a2103d0b84a6f92e213a93931c0e1 }}
